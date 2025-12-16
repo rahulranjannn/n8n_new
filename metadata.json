@@ -1,0 +1,5 @@
+{
+  "name": "CurateOS",
+  "description": "A minimalistic content curation dashboard for Reddit and Newsletters, featuring N8N integration points and Supabase-ready data structures.",
+  "requestFramePermissions": []
+}
